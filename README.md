@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is systematic development of high quality software using engineering methods tools and principles. It enables the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+- Software engineering is systematic development of high quality software using engineering methods tools and principles. It enables the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -56,7 +56,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-Prompt engineering is all about crafting questions to get the best possible response from AI models. It helps to avoid confusing answers
+- Prompt engineering is all about crafting questions to get the best possible response from AI models. It helps to avoid confusing answers
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
